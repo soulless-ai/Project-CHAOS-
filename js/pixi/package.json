@@ -1,0 +1,17 @@
+{
+  "name": "pixi",
+  "version": "1.0.0",
+  "description": "Pixi",
+  "main": "pixi.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pixi"
+  ],
+  "author": "Avezov Saydulla <mr.chupak@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pixi.js": "^5.0.0-rc"
+  }
+}
