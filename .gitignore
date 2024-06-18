@@ -1,0 +1,76 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+logs
+*.log
+npm-debug.log*
+
+# Узлы модулей
+node_modules/
+package-lock.json
+
+js/pixi/node_modules/
+js/pixi/package-lock.json/
+
+# Скомпилированные файлы
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# Временные файлы
+*.tmp
+*.swp
+*.swo
+
+# Файлы IDE/редактора
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Пакеты
+*.jar
+*.war
+*.ear
+
+# Скрытые файлы MacOS
+._*
+
+# Файлы ОС
+*.pid
+
+# Кэш браузера
+.cache
+
+# Библиотеки
+lib/
+
+# Файлы виртуальных окружений Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Бинарные файлы
+*.bin
+*.out
+*.hex
+
+# Конфиденциальные данные
+.env
+*.key
+*.pem
+*.p12
+
+# Файлы сборки
+dist/
+build/
+target/
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp

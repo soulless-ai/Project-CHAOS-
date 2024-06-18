@@ -8,10 +8,13 @@ Serves as a business card.
 special thanks to: Shane Seminole Mielke.
 
 
-http://launchit.shanemielke.com/
+https://launchit.shanemielke.com/
 
 
 ![My Image](./README-resource/screen-1.png)
 
 ###
 ![My Image](./README-resource/screen-2.png)
+
+
+### For start - npm install in directory /js/pixi - them GO live /index.html file.
